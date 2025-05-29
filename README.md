@@ -30,8 +30,8 @@ Aspiring Full-Stack Developer • UI/UX Design Learner • Machine Learning Expl
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebadansari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadansari&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebadansari&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadansari&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
